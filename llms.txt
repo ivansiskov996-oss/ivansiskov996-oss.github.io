@@ -1,0 +1,11 @@
+# ТатуНаХоду — справочник по тату
+
+> Практичные ответы о татуировках от московской тату-студии «ТатуНаХоду»: заживление, уход, боль, подготовка к сеансу.
+
+Основной сайт: https://ivansiskov996-oss.github.io/tattoo-spravochnik/
+Актуальный полный список статей: https://ivansiskov996-oss.github.io/tattoo-spravochnik/llms.txt
+Запись и вопросы: https://t.me/tatunahody · Канал студии: https://t.me/tattoo_na_hodu
+
+## Статьи
+
+- [Шелушение тату по дням: что нормально, а что нет](https://ivansiskov996-oss.github.io/tattoo-spravochnik/sheluschenie-tatu-po-dnyam/): Когда тату начинает шелушиться, сколько это длится и какие признаки должны насторожить. Разбор заживления по дням от тату-студии.
